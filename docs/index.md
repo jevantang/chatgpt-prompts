@@ -1,5 +1,4 @@
 ---
-# https://vitepress.dev/reference/default-theme-home-page
 layout: home
 
 hero:
@@ -7,7 +6,7 @@ hero:
   text: "分门别类的提示语大全"
   tagline: 这里汇集了丰富的 ChatGPT 提示语、创意写作灵感与实用技巧。让我们帮助您激发无限创意，提升写作效率与质量。
   image:
-      src: https://cdn.fresns.cn/wiki/images/work.png
+      src: /images/chat.png
       alt: Fresns
   actions:
     - theme: brand

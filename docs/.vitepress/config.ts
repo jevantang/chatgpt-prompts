@@ -5,7 +5,7 @@ export default defineConfig({
   description: "欢迎来到 ChatGPT 提示语大全，这里汇集了丰富的 ChatGPT 提示语、创意写作灵感与实用技巧。让我们帮助您激发无限创意，提升写作效率与质量。立即探索吧！",
 
   head: [
-      ['link', { rel: 'icon', type: 'image/png', href: 'https://cdn.fresns.cn/wiki/icons/fresns.png' }],
+      ['link', { rel: 'icon', type: 'image/png', href: '/images/logo.png' }],
       ['meta', { property: 'og:type', content: 'website' }],
       ['meta', { property: 'og:title', content: 'ChatGPT 提示语大全' }],
       ['meta', { property: 'og:description', content: '分门别类的 ChatGPT 提示语大全' }],
@@ -14,7 +14,7 @@ export default defineConfig({
   ],
 
   themeConfig: {
-    logo: 'https://cdn.fresns.cn/wiki/icons/fresns.png',
+    logo: '/images/logo.png',
 
     nav: [
       { text: '首页', link: '/' },
@@ -37,7 +37,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: '聊天', link: '/life/chat' },
-          { text: '帮手', link: '/life/helper' },
+          { text: '帮手', link: '/life/helper.md' },
           { text: '旅游', link: '/life/travel' },
         ]
       },
@@ -76,7 +76,7 @@ export default defineConfig({
     outlineTitle: '导览',
 
     editLink: {
-        pattern: 'https://github.com/fresns/docs/tree/main/wiki/zh-Hans/:path',
+        pattern: 'https://github.com/jevantang/chatgpt-prompts/blob/main/docs/:path',
         text: '为此页贡献新提示语'
     },
 
