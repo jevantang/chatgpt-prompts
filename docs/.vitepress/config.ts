@@ -5,16 +5,16 @@ export default defineConfig({
   description: "欢迎来到 ChatGPT 提示语大全，这里汇集了丰富的 ChatGPT 提示语、创意写作灵感与实用技巧。让我们帮助您激发无限创意，提升写作效率与质量。立即探索吧！",
 
   head: [
-      ['link', { rel: 'icon', type: 'image/png', href: '/images/logo.png' }],
+      ['link', { rel: 'icon', type: 'image/png', href: 'https://cdn.fresns.cn/wiki/chatgpt/logo.png' }],
       ['meta', { property: 'og:type', content: 'website' }],
       ['meta', { property: 'og:title', content: 'ChatGPT 提示语大全' }],
       ['meta', { property: 'og:description', content: '分门别类的 ChatGPT 提示语大全' }],
-      ['meta', { property: 'og:image', content: 'https://cdn.fresns.cn/wiki/images/og-image.jpg' }],
+      ['meta', { property: 'og:image', content: 'https://cdn.fresns.cn/wiki/chatgpt/og-image.jpg' }],
       ['meta', { property: 'og:url', content: 'https://prompts.fresns.cn' }],
   ],
 
   themeConfig: {
-    logo: '/images/logo.png',
+    logo: 'https://cdn.fresns.cn/wiki/chatgpt/logo.png',
 
     nav: [
       { text: '首页', link: '/' },
