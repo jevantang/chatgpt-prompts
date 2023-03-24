@@ -73,7 +73,10 @@ export default defineConfig({
       copyright: 'Copyright © 2023 <a href="https://tangjie.me/" target="_blank">唐杰</a>',
     },
 
-    outlineTitle: '导览',
+    outlineTitle: '本页导览',
+    returnToTopLabel: '返回顶部',
+    sidebarMenuLabel: '菜单',
+    darkModeSwitchLabel: '深色模式',
 
     editLink: {
         pattern: 'https://github.com/jevantang/chatgpt-prompts/blob/main/docs/:path',
