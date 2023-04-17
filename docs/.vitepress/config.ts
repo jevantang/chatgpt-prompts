@@ -1,6 +1,7 @@
 import { defineConfig } from 'vitepress'
 
 export default defineConfig({
+  lang: 'zh-Hans',
   title: "ChatGPT 提示语",
   description: "欢迎来到 ChatGPT 提示语大全，这里汇集了丰富的 ChatGPT 提示语、创意写作灵感与实用技巧。让我们帮助您激发无限创意，提升写作效率与质量。立即探索吧！",
 
@@ -88,6 +89,31 @@ export default defineConfig({
     docFooter: {
         prev: '上一项',
         next: '下一项',
+    },
+
+    search: {
+      provider: 'local',
+      options: {
+        locales: {
+          root: {
+            translations: {
+              button: {
+                buttonText: '搜索文档',
+                buttonAriaLabel: '搜索文档'
+              },
+              modal: {
+                noResultsText: '无法找到相关结果',
+                resetButtonTitle: '清除查询条件',
+                footer: {
+                  selectText: '选择',
+                  navigateText: '切换',
+                  closeText: '关闭',
+                }
+              }
+            }
+          }
+        }
+      }
     },
 
     socialLinks: [
