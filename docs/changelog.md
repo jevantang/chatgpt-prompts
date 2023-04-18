@@ -5,6 +5,11 @@ lastUpdated: false
 
 # 更新日志
 
+## 2023-04-19
+
+- 通用技能-翻译: [API 技术文档翻译](general/translation.md#api-技术文档翻译)
+- 通用技能-技术: [PHP&Laravel 技术专家](it/technology.md#phplaravel-技术专家)
+
 ## 2023-04-18
 
 - 标题由「提示语」修改为「引导语」

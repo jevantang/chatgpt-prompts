@@ -13,7 +13,7 @@ hero:
       text: 立即探索
       link: /general/translation
     - theme: alt
-      text: 最后更新 2023-04-18
+      text: 最后更新 2023-04-19
       link: /changelog
 
 features:
