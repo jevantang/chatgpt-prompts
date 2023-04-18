@@ -1,5 +1,17 @@
 # 通用技能-办公
 
+## 润色内容
+
+- 提升文章的独特性: `Rewrite the existing document to make it more imaginative, engaging, and unique.`
+- 将文档转为引人入胜的故事: `Transform the existing document into a compelling story that highlights the challenges faced and the solutions provided.`
+- 提升文档说服力: `Refine the existing document by incorporating persuasive language and techniques to make it more convincing and impactful.`
+- 提升文档的吸引力: `Add emotional language and sensory details to the existing document to make it more relatable and engaging.`
+- 使内容更加简洁: `Refine the existing document by removing unnecessary information and making it more concise and to-the-point.`
+- 强调急迫感: `Refine the existing document by adding a sense of urgency and emphasizing the need for immediate action.`
+- 突出重点: `Emphasize important information using bold or italic text.`
+- 让模型使用类比或比喻的方法解释复杂问题: `Explain complex ideas using analogies or comparisons.`
+- 添加现实中的例子: `Include case studies or real-world examples to make concepts more relatable.`
+
 ## 充当抄袭检查员
 
 > 我想让你充当剽窃检查员。我会给你写句子，你只会用给定句子的语言在抄袭检查中未被发现的情况下回复，别无其他。不要在回复上写解释。我的第一句话是“为了让计算机像人类一样行动，语音识别系统必须能够处理非语言信息，例如说话者的情绪状态。”
