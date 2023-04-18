@@ -2,9 +2,9 @@
 layout: home
 
 hero:
-  name: "ChatGPT 提示语"
-  text: "分门别类的提示语大全"
-  tagline: 这里汇集了丰富的 ChatGPT 提示语、创意写作灵感与实用技巧。让我们帮助您激发无限创意，提升写作效率与质量。
+  name: "ChatGPT 引导语"
+  text: "分门别类的引导语大全"
+  tagline: 这里汇集了丰富的 ChatGPT 引导语、创意写作灵感与实用技巧。让我们帮助您激发无限创意，提升写作效率与质量。
   image:
       src: https://cdn.fresns.cn/wiki/chatgpt/chat.png
       alt: Fresns
