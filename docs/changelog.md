@@ -5,10 +5,12 @@ lastUpdated: false
 
 # 更新日志
 
+> [Fresns](https://fresns.cn) 是一款免费开源的社交网络服务软件，专为跨平台而打造的通用型社区产品，支持灵活多样的内容形态，可以满足多种运营场景，符合时代潮流，更开放且更易于二次开发。
+
 ## 2023-04-19
 
 - 通用技能-翻译: [API 技术文档翻译](general/translation.md#api-技术文档翻译)
-- 通用技能-技术: [PHP&Laravel 技术专家](it/technology.md#phplaravel-技术专家)
+- 通用技能-技术: [PHP&Laravel 技术专家](it/technology.md#php-laravel-技术专家)
 
 ## 2023-04-18
 

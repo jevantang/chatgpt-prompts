@@ -21,6 +21,7 @@ export default defineConfig({
       { text: '首页', link: '/' },
       { text: '引导语', link: '/general/translation', activeMatch: `^/(general|life|it|cultural)/`, },
       { text: '更新日志', link: '/changelog' },
+      { text: 'Fresns', link: 'https://fresns.cn' },
     ],
 
     sidebar: [
