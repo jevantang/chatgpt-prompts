@@ -3,7 +3,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   lang: 'zh-Hans',
   title: "ChatGPT 引导语",
-  description: "欢迎来到 ChatGPT 引导语大全，这里汇集了丰富的 ChatGPT 引导语、创意写作灵感与实用技巧。让我们帮助您激发无限创意，提升写作效率与质量。立即探索吧！",
+  description: "欢迎来到 ChatGPT Prompts 引导语大全，这里汇集了丰富的 ChatGPT 提示语、创意写作灵感与实用技巧。让我们帮助您激发无限创意，提升写作效率与质量。立即探索吧！",
 
   head: [
       ['link', { rel: 'icon', type: 'image/png', href: 'https://cdn.fresns.cn/wiki/chatgpt/logo.png' }],

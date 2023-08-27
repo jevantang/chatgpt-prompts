@@ -16,7 +16,7 @@ hero:
       text: Fresns ↗
       link: https://fresns.cn
     - theme: alt
-      text: 最后更新 2023-04-19
+      text: 最后更新 2023-08-27
       link: /changelog
 
 features:
