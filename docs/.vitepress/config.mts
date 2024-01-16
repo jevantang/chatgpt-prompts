@@ -38,7 +38,7 @@ export default defineConfig({
 
     footer: {
       message: 'Released under the CC0-1.0 License.',
-      copyright: 'Copyright © 2023 <a href="https://tangjie.me/" target="_blank">唐杰</a>',
+      copyright: 'Copyright © 2024 <a href="https://tangjie.me/" target="_blank">唐杰</a>',
     },
 
     outlineTitle: '本页导览',
