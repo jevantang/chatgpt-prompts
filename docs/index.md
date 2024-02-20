@@ -6,18 +6,18 @@ hero:
   text: "分门别类的引导语大全"
   tagline: 这里汇集了丰富的 ChatGPT 引导语、创意写作灵感与实用技巧。让我们帮助您激发无限创意，提升写作效率与质量。
   image:
-      src: https://cdn.fresns.cn/wiki/chatgpt/chat.png
+      src: https://assets.fresns.cn/prompts/chat.png
       alt: Fresns
   actions:
     - theme: brand
       text: 立即探索
       link: /general/translation
     - theme: alt
+      text: 互动交流 ↗
+      link: https://zhijieshequ.com/group/ai
+    - theme: alt
       text: Fresns ↗
       link: https://fresns.cn
-    - theme: alt
-      text: 最后更新 2023-12-24
-      link: /changelog
 
 features:
   - title: 学术论文
