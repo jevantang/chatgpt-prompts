@@ -22,6 +22,7 @@ export default defineConfig({
       { text: '指南', link: '/guide/', activeMatch: '/guide' },
       { text: '引导语', link: '/general/translation.md', activeMatch: `^/(general|life|it|cultural|medicine)/`, },
       { text: '更新日志', link: '/changelog.md' },
+      { text: '互动交流', link: 'https://zhijieshequ.com/group/ai' },
       { text: 'Fresns', link: 'https://fresns.cn' },
     ],
 
