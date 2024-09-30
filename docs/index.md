@@ -13,9 +13,6 @@ hero:
       text: 立即探索
       link: /general/translation
     - theme: alt
-      text: 互动交流 ↗
-      link: https://zhijieshequ.com/group/ai
-    - theme: alt
       text: Fresns ↗
       link: https://fresns.cn
 
