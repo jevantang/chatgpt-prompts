@@ -7,6 +7,8 @@ lastUpdated: false
 
 > [Fresns](https://fresns.cn) 是一款免费开源的社交网络服务软件，专为跨平台而打造的通用型社区产品，支持灵活多样的内容形态，可以满足多种运营场景，符合时代潮流，更开放且更易于二次开发。
 
+> [作者名片](https://tangjie.me/mycard)
+
 ## 2023-12-24
 
 - 新增[指南](/guide/)

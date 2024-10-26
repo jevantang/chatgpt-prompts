@@ -13,8 +13,8 @@ hero:
       text: 立即探索
       link: /general/translation
     - theme: alt
-      text: Fresns ↗
-      link: https://fresns.cn
+      text: 作者名片 ↗
+      link: https://tangjie.me/mycard
 
 features:
   - title: 学术论文

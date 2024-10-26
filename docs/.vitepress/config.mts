@@ -22,7 +22,7 @@ export default defineConfig({
       { text: '指南', link: '/guide/', activeMatch: '/guide' },
       { text: '引导语', link: '/general/translation.md', activeMatch: `^/(general|life|it|cultural|medicine)/`, },
       { text: '更新日志', link: '/changelog.md' },
-      { text: 'Fresns', link: 'https://fresns.cn' },
+      { text: '作者名片', link: 'https://tangjie.me/mycard' },
     ],
 
 
@@ -38,7 +38,7 @@ export default defineConfig({
 
     footer: {
       message: 'Released under the CC0-1.0 License.',
-      copyright: 'Copyright © 2024 <a href="https://tangjie.me/" target="_blank">唐杰</a>',
+      copyright: 'Copyright © 2024 <a href="https://tangjie.me/mycard" target="_blank">唐杰</a>',
     },
 
     outlineTitle: '本页导览',
