@@ -84,7 +84,7 @@ export default defineConfig({
     },
 
     socialLinks: [
-      { icon: 'twitter', link: 'https://x.com/pmtangjie' },
+      { icon: 'twitter', link: 'https://x.com/TangJieSG' },
       { icon: 'github', link: 'https://github.com/jevantang/chatgpt-prompts' }
     ]
   }
